@@ -26,8 +26,8 @@ define('URL', '/');
  */
 define('DB_TYPE', 'mysql');
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'php-mvc');
-define('DB_USER', 'root');
-define('DB_PASS', 'password');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASS', '');
 define('ADMIN_NAME', 'admin');
-define('ADMIN_PASS', '123456');
+define('ADMIN_PASS', '123');
