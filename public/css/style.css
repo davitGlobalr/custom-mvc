@@ -1,0 +1,51 @@
+/* Demo CSS */
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 15px;
+}
+
+table {
+    font-size: 13px;
+}
+
+.container {
+    border: 3px solid #000;
+    padding: 20px;
+    margin: 10px;
+}
+
+.errors-box {
+    border: 3px solid red;
+    padding: 20px;
+    margin: 10px;
+}
+.errors-box li {
+    color: red;
+}
+.success-box {
+    border: 3px solid green;
+    padding: 20px;
+    margin: 10px;
+}
+
+.success-box span {
+    color: deepskyblue;
+    font-size: 18px;
+}
+.where-are-we-box {
+    position: relative;
+    left: -20px;
+    top: -20px;
+    background-color: #bbb;
+    padding: 10px 15px;
+    display: inline-block;
+}
+
+.bold {
+    font-weight: bold;
+}
